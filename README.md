@@ -9,4 +9,4 @@ Figure 2's main file is _Simulations.m_, Figure 3's main file is _fingerprintPlo
 The CAD files required to cast the sensorized hand are given in the folder _HandCAD/_. A full description of the fabrication process is given in the paper's supplementary material.
 
 # Figure 6
-The folder _HandTests/_ contains the data and its processing used to create Figure 6's tactile localization. Its main file is _tactileLocalization.m_ 
+The folder _HandTests/_ contains the data and its processing used to create Figure 6's tactile localization. Its main file is _tactileLocalization.m_. Data is loaded automatically by the script.
